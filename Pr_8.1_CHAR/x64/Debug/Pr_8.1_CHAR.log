@@ -1,0 +1,3 @@
+﻿  8.1_char.cpp
+D:\НУ Львівська Політехніка\Алгоритмізація та програмування\Лабораторні\Лабораторна 8\Lab_8.1_CHAR\Pr_8.1_CHAR\Pr_8.1_CHAR\8.1_char.cpp(34,16): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Pr_8.1_CHAR.vcxproj -> D:\НУ Львівська Політехніка\Алгоритмізація та програмування\Лабораторні\Лабораторна 8\Lab_8.1_CHAR\Pr_8.1_CHAR\x64\Debug\Pr_8.1_CHAR.exe
